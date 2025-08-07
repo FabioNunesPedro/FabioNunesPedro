@@ -7,7 +7,7 @@
 
 🧑‍💻 30 anos | 🖥️ Desenvolvedor Full Stack na Nanicas SoftHouse  
 🎓 Formando em Análise e Desenvolvimento de Sistemas (5/6)  
-🚀 Foco em desenvolvimento back-end com Java, Laravel e PHP  
+🚀 Foco em desenvolvimento back-end com Java, Laravel, Python e PHP  
 💡 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de sistemas
 
 ---
